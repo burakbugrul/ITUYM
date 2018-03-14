@@ -1,0 +1,11 @@
+Inputs
+------
+
+n -> length of array
+mult -> desired number
+lim -> limit of numbers in array
+
+1...3 -> n = 10, mult = 10, lim = 10
+4...5 -> n = 10, mult = 0, lim = 10
+6...8 -> n = 100 000, mult = 50 000, lim = 10 000
+9...10 -> n = 100 000, mult = 0, lim = 10 000

@@ -1,0 +1,12 @@
+Inputs
+------
+
+n -> first string
+m -> second string
+lim -> maximum disitinct characters used from alphabet
+
+1...5 -> n = 10, m = 5, lim = 10
+6...10 -> n = 100, m = 50, lim = 10
+11...15 -> n = 10 000, m = 1000, lim = 15
+16...20 -> n = 100 000, m = 1000, lim = all
+21...21 -> n = 100 000, m = 1000, lim = 1
